@@ -1,5 +1,5 @@
 # OSLab
-Operating Systems Lab done during V Semester
+Operating Systems Lab work done during V Semester
 
 ## [Shell Programming](https://github.com/MBadriNarayanan/OSLab/tree/main/Shell%20Programming)
 
